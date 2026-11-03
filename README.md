@@ -35,11 +35,11 @@ For optional AI mode, copy `.env.example` to `.env` and provide your own API key
 
 | Education | Psychology |
 |---|---|
-| ![Education example](ornek_postlar/ABA_Egitim_1.png) | ![Psychology example](ornek_postlar/ABA_Psikoloji_1.png) |
+| ![Education example](ABA_Egitim_1.png) | ![Psychology example](ABA_Psikoloji_1.png) |
 
 | Innovation | Design studio |
 |---|---|
-| ![Innovation example](ornek_postlar/E4I_1.png) | ![Design example](ornek_postlar/Design_House_Global_1.png) |
+| ![Innovation example](E4I_1.png) | ![Design example](Design_House_Global_1.png) |
 
 ## Scope and limitations
 - Offline mode is **rule-based**, not generative AI.
